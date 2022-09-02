@@ -7,4 +7,5 @@
 - 34-5 Implement Show All button to display all data
 - 34-6 Dynamic API Data Load and search on keyboard enter button
 - 34-7 Show Phone Details data on a Modal
--
+- 34-8 Common API related mistakes and asynchronous Javascript
+- 
